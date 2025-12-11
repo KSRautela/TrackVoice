@@ -4,9 +4,6 @@ This project uses **OpenCV** and **ArUco markers** to detect a marker in real-ti
 
 The camera follows the marker by mapping its position in the frame to servo angles (0–180°), with smoothing and deadband to prevent jitter and unnecessary movements.
 
-https://github.com/user/aruco-servo-tracker/assets/12345678/abc123-preview.gif  
-*(Replace with your own GIF/video preview)*
-
 ## Features
 
 - Real-time ArUco marker detection using OpenCV
