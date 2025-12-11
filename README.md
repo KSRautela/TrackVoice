@@ -1,3 +1,4 @@
+
 # ArUco Marker Tracker with Pan-Tilt Servo Control
 
 This project uses **OpenCV** and **ArUco markers** to detect a marker in real-time from a webcam, smoothly track its center, and control a 2-axis pan-tilt servo mechanism via an **ESP32** over serial communication.
@@ -43,6 +44,14 @@ The camera follows the marker by mapping its position in the frame to servo angl
 - Install **ESP32Servo** library by Kevin Harrington  
   → Arduino Library Manager → Search "ESP32Servo"\
 
-  
-https://www.youtube.com/watch?v=8GhdAhkSSAo
+![PXL_20250714_085152567~2](https://github.com/user-attachments/assets/7c623e45-f87e-4510-8035-26842920dbf4)
+
+
+
+https://github.com/user-attachments/assets/9455396f-0f58-4419-bb57-15915f4fb691
+
+
+https://github.com/user-attachments/assets/30c3440d-5243-4a29-b078-7eecacd47d7a
+
+
 
