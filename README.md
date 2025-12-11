@@ -41,5 +41,8 @@ The camera follows the marker by mapping its position in the frame to servo angl
 
 ### ESP32 (Arduino IDE or PlatformIO)
 - Install **ESP32Servo** library by Kevin Harrington  
-  → Arduino Library Manager → Search "ESP32Servo"
+  → Arduino Library Manager → Search "ESP32Servo"\
+
+  
+https://www.youtube.com/watch?v=8GhdAhkSSAo
 
